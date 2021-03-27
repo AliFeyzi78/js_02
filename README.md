@@ -1,3 +1,3 @@
-# My js-02
+# My Mini Project about JS
 
 Thi project is about JS
