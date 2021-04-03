@@ -7,6 +7,7 @@ function sumNumbers() {
   //     return alert("Not a Number");
   //   }
   const result = parseInt(num_1) + parseInt(num_2);
+
   document.getElementById("result").innerHTML = result;
   //   alert(num_1 + num_2);
 }
